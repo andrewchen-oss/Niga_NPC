@@ -1,7 +1,7 @@
 # Skyeye Bot
 
 基于 Twitter/X API v2和 Nuwa World API的智能社交回复机器人，支持**人脸识别搜索**和**AI 内容生成**两大核心功能。
-唯一支持路径CA（BSC）：0xa8200561e7b1d97589889b1ffcfac091aaa07777（非本人发布）
+**唯一支持路径CA（BSC）**：0xa8200561e7b1d97589889b1ffcfac091aaa07777（非本人发布）
 
 ## 技术栈
 
